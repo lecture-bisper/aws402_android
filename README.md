@@ -15,4 +15,12 @@
 	4. Dart : 함수, 포지션 매개변수, 네임드 매개변수, 매개변수 기본값, 화살표 함수, 익명함수, typedef
 	5. Dart : 예외처리
 	6. Dart : 클래스, 기본생성자, 네임드 생성자, private 멤버 변수
+3. 3일차
+	1. Dart : 문제 풀이
+	2. Dart : copyWith, 클래스 상속, 인터페이스
+	3. Dart : mixin
+	4. Dart : 추상 클래스, 추상 메소드, 캐스케이드 연산자
+	5. Dart : dart 3 문법, record, 구조 분해 할당(record, list, map, class), 스프레드 연산자
+	6. Dart : dart 3 문법, switch ~ case 추가 기능
+	7. Dart : Future 비동기 프로그래밍
 	
