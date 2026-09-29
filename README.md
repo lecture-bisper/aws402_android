@@ -30,4 +30,12 @@
 	4. Flutter : StatefulWidget 의 생명주기 함수
 	5. Flutter : BuildContext 와 Key
 	6. Flutter : Assets 사용하기
-	
+5. 5일차
+	1. Flutter : Assets 사용하기
+	2. Flutter : Text, Image 위젯 사용하기
+	3. Flutter : Icon, IconButton, GestureDetector, Buttons 위젯 사용하기
+	4. Flutter : Container 위젯, SafeArea 사용하기
+	5. Flutter : 배치 위젯, Row, Column, Stack, IndexedStack, MainAxisAlignment, CrossAxisAlignment 사용하기
+	6. Flutter : Align, Positioned 위젯 사용하기
+	7. Flutter : 크기 설정, IntrisicWidth, IntrinsicHeight, Flexible, Expended, Spacer 위젯 사용하기
+	8. Flutter : SingleChildScrollView 위젯 사용하기
