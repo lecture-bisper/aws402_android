@@ -39,3 +39,13 @@
 	6. Flutter : Align, Positioned 위젯 사용하기
 	7. Flutter : 크기 설정, IntrisicWidth, IntrinsicHeight, Flexible, Expended, Spacer 위젯 사용하기
 	8. Flutter : SingleChildScrollView 위젯 사용하기
+6. 6일차
+	1. Flutter : ListView, GridView, PageView
+	2. Flutter : Dialog, TabBar
+	3. Flutter : TextField, Checkbox, radio, slider, form
+7. 7일차
+	1. Flutter : 머티리얼 디자인과 쿠퍼티노 디자인
+	2. Flutter : Scaffold 위젯
+	3. Flutter : 커스텀 스크롤과 슬리버 앱바
+	4. Flutter : Route 와 Navigator
+	5. Flutter : 스플레시 스크린 만들기, 메모장 만들기
