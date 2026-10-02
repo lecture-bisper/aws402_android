@@ -49,3 +49,10 @@
 	3. Flutter : 커스텀 스크롤과 슬리버 앱바
 	4. Flutter : Route 와 Navigator
 	5. Flutter : 스플레시 스크린 만들기, 메모장 만들기
+8. 8일차
+	1. Flutter : 문제 풀이(메모장 만들기)
+	2. Flutter : json 데이터 파싱하기
+	3. Flutter : http 라이브러리 사용하기
+	4. Flutter : dio 라이브러리 사용하기
+	5. Flutter : dio 라이브러리로 영화진흥원 일일박스오피스 정보 가져오기
+	
