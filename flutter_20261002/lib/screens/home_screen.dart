@@ -24,8 +24,8 @@ class HomeScreen extends StatelessWidget {
       ),
       // body: JsonParseScreen(),
       // body: const HttpCommScreen(),
-      // body: const DioCommScreen(),
-      body: const KobisDailyboxofficeScreen(),
+      body: const DioCommScreen(),
+      // body: const KobisDailyboxofficeScreen(),
     );
   }
 }

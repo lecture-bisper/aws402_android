@@ -1,0 +1,10 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: backend
+  mvc:
+    hiddenmethod:
+      filter:
+        enabled: true
